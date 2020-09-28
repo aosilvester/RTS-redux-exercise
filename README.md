@@ -1,9 +1,9 @@
-# RTS-REDUX-EXERCISE
+# React Redux API Search
 
 
 ## Description
 
-**What is RTS-redux-exercise?** the RTS-redux-exercise is a demonstration of a simple API search engine built in React and uses Redux to communicate information between components
+**What is React Redux API Search?** the React Redux API Search is a demonstration of a simple API search engine built in React and uses Redux to communicate information between components
 
 **Purpose of the Project**
 The purpose of this project is demonstrate a knowledge of React and the ability to learn and understand new technologies by learning Redux
@@ -24,7 +24,7 @@ The program is run through your command line terminal with the following:
 If there are any problems or issues with this app, please contact the author.
 
 ## Authors
-RTS-redux-exercise was developed by Alex Silvester in 2018
+React Redux API Search was developed by Alex Silvester in 2018
 You may contact Alex via email at (aosilvester@gmail.com) with any questions.
 
 ## Version History
